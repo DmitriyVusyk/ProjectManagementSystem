@@ -1,0 +1,7 @@
+ProjectManagementSystem.iml
+.idea/dataSources.local.xml
+.idea/inspectionProfiles/
+.idea/workspace.xml
+src/main/resources/
+src/test/
+target/
